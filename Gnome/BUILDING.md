@@ -42,4 +42,4 @@ replacing `file.tar.zst` with the file name.
 ## Editing default desktop configuration
 Any file in `./etc/skel/` will be put in user's home. There you can store dotfiles related to a specific desktop configuration.
 ## Running commands in the airootfs
-You can run commands in the airootfs before the ISO is built editing the `customize_airootfs.sh` file.
+You can run commands in the airootfs before the ISO is finished building by editing the `customize_airootfs.sh` file.
